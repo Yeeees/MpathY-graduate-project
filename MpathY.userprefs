@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{042CA194-9B9C-4E4B-ADB4-54ADD6AE2E98}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MpathY/Views/Org/testView.cshtml">
+    <Files>
+      <File FileName="MpathY/Views/Org/testView.cshtml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MpathY PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
